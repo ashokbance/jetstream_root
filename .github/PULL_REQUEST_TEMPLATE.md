@@ -11,7 +11,7 @@
 -->
 
 ## Summary
--- Brief description of changes
+- Brief description of changes
 
 ## Opinion(s) 
 - Reasoning about whether we would like to HOLD, ASSESS, TRIAL or ADOPT and why?
