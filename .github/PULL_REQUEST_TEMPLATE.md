@@ -7,15 +7,16 @@
   1. Clone [the repository](https://github.com/sky-uk/csp-tech-radar) and create your branch from `master`.
   2. Update csp-tech-radar.csv, keeping in mind that opions are categorized into quadrants, and provide any reasoning about whether we would like to
      hold/assess/trial or adopt this tech.
-  3. Identify any teams who you believe might be already using this tech
+  3. Identify any other teams who you believe might be already using this or looking to use this tech (OPTIONAL)
 -->
 
 ## Summary
 
 
 ## Opinion(s) 
-<p> (HOLD,ASSESS,TRIAL or ADOPT and why?) <p>
+- Reasoning about whether we would like to HOLD, ASSESS, TRIAL or ADOPT and why?
 
 
   
-## Are you or any teams using this tech?
+## Teams interested in this tech?
+- Are you aware of any other teams using this tech or showing interest?
