@@ -2,7 +2,8 @@
 ## Summary
 
 
-## Opinion(s) (Do you believe we should HOLD/ASSESS/TRIAL/ADOPT each of these changes and why?)
+## Opinion(s) 
+- Do you believe we should HOLD/ASSESS/TRIAL/ADOPT each of these changes and why?
 
 
 ## Any teams using the tech mentioned
