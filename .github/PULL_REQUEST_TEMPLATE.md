@@ -1,7 +1,7 @@
 
 <!--
   Thanks for submitting a pull request!
-  Please provide enough information so that others can review your pull request. The three fields below are mandatory.
+  Please provide enough information so that others can review your pull request.
 
   Before submitting a pull request, please make sure the following is done:
   1. Clone [the repository](https://github.com/sky-uk/csp-tech-radar) and create your branch from `master`.
@@ -15,8 +15,6 @@
 
 ## Opinion(s) 
 - Reasoning about whether we would like to HOLD, ASSESS, TRIAL or ADOPT and why?
-
-
   
 ## Teams interested in this tech?
-- Are you aware of any other teams using this tech or showing interest?
+- Any other teams you are aware of using any of the mentioned tech or showing interest?
